@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\Baitap1\Baitap1\bin\Debug\net10.0\Baitap1.exe
+C:\Users\ACER\source\repos\Baitap1\Baitap1\bin\Debug\net10.0\Baitap1.deps.json
+C:\Users\ACER\source\repos\Baitap1\Baitap1\bin\Debug\net10.0\Baitap1.runtimeconfig.json
+C:\Users\ACER\source\repos\Baitap1\Baitap1\bin\Debug\net10.0\Baitap1.dll
+C:\Users\ACER\source\repos\Baitap1\Baitap1\bin\Debug\net10.0\Baitap1.pdb
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.dll
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\refint\Baitap1.dll
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.pdb
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\Baitap1.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Baitap1\Baitap1\obj\Debug\net10.0\ref\Baitap1.dll
