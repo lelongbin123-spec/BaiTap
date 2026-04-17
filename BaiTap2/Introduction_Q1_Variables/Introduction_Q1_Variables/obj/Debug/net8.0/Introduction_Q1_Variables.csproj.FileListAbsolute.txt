@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\bin\Debug\net8.0\Introduction_Q1_Variables.exe
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\bin\Debug\net8.0\Introduction_Q1_Variables.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\bin\Debug\net8.0\Introduction_Q1_Variables.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\bin\Debug\net8.0\Introduction_Q1_Variables.dll
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\bin\Debug\net8.0\Introduction_Q1_Variables.pdb
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.dll
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\refint\Introduction_Q1_Variables.dll
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.pdb
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\Introduction_Q1_Variables.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice-L2-Data-Value-Variable\C-Sharp-Practice-L2-Data-Value-Variable\Introduction_Q1_Variables\Introduction_Q1_Variables\obj\Debug\net8.0\ref\Introduction_Q1_Variables.dll
