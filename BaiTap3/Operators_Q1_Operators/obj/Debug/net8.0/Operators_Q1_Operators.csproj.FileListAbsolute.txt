@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\bin\Debug\net8.0\Operators_Q1_Operators.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\refint\Operators_Q1_Operators.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\Operators_Q1_Operators.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap3\Operators_Q1_Operators\obj\Debug\net8.0\ref\Operators_Q1_Operators.dll
