@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\bin\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q4_Classes.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\Non-Primitive Data Types_Q4_Classes.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q4_Classes\Non-Primitive Data Types_Q4_Classes\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q4_Classes.dll

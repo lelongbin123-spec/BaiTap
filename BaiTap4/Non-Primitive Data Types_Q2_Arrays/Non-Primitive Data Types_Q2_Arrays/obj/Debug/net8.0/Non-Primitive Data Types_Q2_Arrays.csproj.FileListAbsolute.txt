@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\bin\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\refint\Non-Primitive Data Types_Q2_Arrays.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\Non-Primitive Data Types_Q2_Arrays.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap4\Non-Primitive Data Types_Q2_Arrays\Non-Primitive Data Types_Q2_Arrays\obj\Debug\net8.0\ref\Non-Primitive Data Types_Q2_Arrays.dll
