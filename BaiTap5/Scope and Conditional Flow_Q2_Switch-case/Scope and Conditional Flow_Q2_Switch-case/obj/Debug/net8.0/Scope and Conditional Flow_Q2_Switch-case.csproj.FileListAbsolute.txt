@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\bin\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\bin\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\bin\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\bin\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\bin\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\refint\Scope and Conditional Flow_Q2_Switch-case.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\Scope and Conditional Flow_Q2_Switch-case.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q2_Switch-case\Scope and Conditional Flow_Q2_Switch-case\obj\Debug\net8.0\ref\Scope and Conditional Flow_Q2_Switch-case.dll

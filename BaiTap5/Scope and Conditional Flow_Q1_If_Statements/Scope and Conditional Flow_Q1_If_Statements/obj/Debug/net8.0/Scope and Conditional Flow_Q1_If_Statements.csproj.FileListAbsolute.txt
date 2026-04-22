@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\bin\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\refint\Scope and Conditional Flow_Q1_If_Statements.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\Scope and Conditional Flow_Q1_If_Statements.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap5\Scope and Conditional Flow_Q1_If_Statements\Scope and Conditional Flow_Q1_If_Statements\obj\Debug\net8.0\ref\Scope and Conditional Flow_Q1_If_Statements.dll
