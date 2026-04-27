@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\BaiTap6\\Methods \u0026 Loops_Q4_Array Methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AD206A5-7807-4675-B366-9569F81225EC}|Methods \u0026 Loops_Q4_Array Methods\\Methods \u0026 Loops_Q4_Array Methods.csproj|d:\\unity\\baitap\\c-sharp-practice\\baitap6\\methods \u0026 loops_q4_array methods\\methods \u0026 loops_q4_array methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD206A5-7807-4675-B366-9569F81225EC}|Methods \u0026 Loops_Q4_Array Methods\\Methods \u0026 Loops_Q4_Array Methods.csproj|solutionrelative:methods \u0026 loops_q4_array methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\BaiTap6\\Methods \u0026 Loops_Q4_Array Methods\\Methods \u0026 Loops_Q4_Array Methods\\Program.cs",
+              "RelativeDocumentMoniker": "Methods \u0026 Loops_Q4_Array Methods\\Program.cs",
+              "ToolTip": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\BaiTap6\\Methods \u0026 Loops_Q4_Array Methods\\Methods \u0026 Loops_Q4_Array Methods\\Program.cs",
+              "RelativeToolTip": "Methods \u0026 Loops_Q4_Array Methods\\Program.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwEkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T06:35:53.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

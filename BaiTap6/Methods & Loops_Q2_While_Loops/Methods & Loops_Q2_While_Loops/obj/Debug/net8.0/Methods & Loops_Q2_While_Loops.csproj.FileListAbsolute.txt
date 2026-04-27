@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\bin\Debug\net8.0\Methods & Loops_Q2_While_Loops.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\refint\Methods & Loops_Q2_While_Loops.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\Methods & Loops_Q2_While_Loops.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q2_While_Loops\Methods & Loops_Q2_While_Loops\obj\Debug\net8.0\ref\Methods & Loops_Q2_While_Loops.dll

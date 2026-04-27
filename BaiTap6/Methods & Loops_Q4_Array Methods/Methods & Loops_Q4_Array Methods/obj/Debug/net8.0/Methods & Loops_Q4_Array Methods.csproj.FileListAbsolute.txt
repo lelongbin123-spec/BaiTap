@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.exe
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\bin\Debug\net8.0\Methods & Loops_Q4_Array Methods.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\refint\Methods & Loops_Q4_Array Methods.dll
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\Methods & Loops_Q4_Array Methods.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\BaiTap6\Methods & Loops_Q4_Array Methods\Methods & Loops_Q4_Array Methods\obj\Debug\net8.0\ref\Methods & Loops_Q4_Array Methods.dll
