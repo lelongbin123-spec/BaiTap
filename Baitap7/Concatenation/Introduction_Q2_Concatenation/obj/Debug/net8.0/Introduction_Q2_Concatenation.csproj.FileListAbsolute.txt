@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\bin\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\refint\Introduction_Q2_Concatenation.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\Introduction_Q2_Concatenation.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Concatenation\Introduction_Q2_Concatenation\obj\Debug\net8.0\ref\Introduction_Q2_Concatenation.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap7\\DD Programming\\DD Programming_Q1_Try_Catch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{391B4CCD-7B72-4F1D-976D-2B5574EC15BA}|DD Programming_Q1_Try_Catch\\DD Programming_Q1_Try_Catch.csproj|d:\\unity\\baitap\\c-sharp-practice\\baitap7\\dd programming\\dd programming_q1_try_catch\\dd programming_q1_try_catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{391B4CCD-7B72-4F1D-976D-2B5574EC15BA}|DD Programming_Q1_Try_Catch\\DD Programming_Q1_Try_Catch.csproj|solutionrelative:dd programming_q1_try_catch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap7\\DD Programming\\DD Programming_Q1_Try_Catch\\DD Programming_Q1_Try_Catch\\Program.cs",
+              "RelativeDocumentMoniker": "DD Programming_Q1_Try_Catch\\Program.cs",
+              "ToolTip": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap7\\DD Programming\\DD Programming_Q1_Try_Catch\\DD Programming_Q1_Try_Catch\\Program.cs",
+              "RelativeToolTip": "DD Programming_Q1_Try_Catch\\Program.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAiwKwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T05:11:00.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\bin\Debug\net8.0\DD Programming_Q1_Try_Catch.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\refint\DD Programming_Q1_Try_Catch.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\DD Programming_Q1_Try_Catch.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DD Programming\DD Programming_Q1_Try_Catch\DD Programming_Q1_Try_Catch\obj\Debug\net8.0\ref\DD Programming_Q1_Try_Catch.dll

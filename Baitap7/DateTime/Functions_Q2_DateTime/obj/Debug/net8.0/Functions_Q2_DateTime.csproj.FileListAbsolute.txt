@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\bin\Debug\net8.0\Functions_Q2_DateTime.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\refint\Functions_Q2_DateTime.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\Functions_Q2_DateTime.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\DateTime\Functions_Q2_DateTime\obj\Debug\net8.0\ref\Functions_Q2_DateTime.dll

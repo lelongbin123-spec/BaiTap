@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\bin\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\refint\Conversion & Operators_Q2_Math_Functions.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\Conversion & Operators_Q2_Math_Functions.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Math_Functions\Conversion & Operators_Q2_Math_Functions\obj\Debug\net8.0\ref\Conversion & Operators_Q2_Math_Functions.dll

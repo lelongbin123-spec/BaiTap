@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\bin\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\refint\Conversion & Operators_Q3_Conversion.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\Conversion & Operators_Q3_Conversion.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap7\Conversion\Conversion & Operators_Q3_Conversion\obj\Debug\net8.0\ref\Conversion & Operators_Q3_Conversion.dll
