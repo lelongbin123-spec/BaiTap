@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L456_Advanced-Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42690339-D2C6-4328-9C33-426BE8438268}|Lesson 4 , 5 \u0026 6 Quiz\\Lesson 4 , 5 \u0026 6 Quiz.csproj|d:\\unity\\baitap\\c-sharp-practice\\baitap8\\l456_advanced-quiz\\lesson 4 , 5 \u0026 6 quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42690339-D2C6-4328-9C33-426BE8438268}|Lesson 4 , 5 \u0026 6 Quiz\\Lesson 4 , 5 \u0026 6 Quiz.csproj|solutionrelative:lesson 4 , 5 \u0026 6 quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L456_Advanced-Quiz\\Lesson 4 , 5 \u0026 6 Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson 4 , 5 \u0026 6 Quiz\\Program.cs",
+              "ToolTip": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L456_Advanced-Quiz\\Lesson 4 , 5 \u0026 6 Quiz\\Program.cs",
+              "RelativeToolTip": "Lesson 4 , 5 \u0026 6 Quiz\\Program.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAiwMEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T06:13:55.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

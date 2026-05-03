@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\bin\Debug\net8.0\Introduction_Final_Quiz.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\refint\Introduction_Final_Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\Introduction_Final_Quiz.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L123_Advanced-Quiz\Introduction_Final_Quiz\obj\Debug\net8.0\ref\Introduction_Final_Quiz.dll

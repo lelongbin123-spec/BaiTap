@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L123_Advanced-Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DEF3458-60EA-4A7A-8772-5F0421C3D18E}|Introduction_Final_Quiz\\Introduction_Final_Quiz.csproj|d:\\unity\\baitap\\c-sharp-practice\\baitap8\\l123_advanced-quiz\\introduction_final_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEF3458-60EA-4A7A-8772-5F0421C3D18E}|Introduction_Final_Quiz\\Introduction_Final_Quiz.csproj|solutionrelative:introduction_final_quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L123_Advanced-Quiz\\Introduction_Final_Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "Introduction_Final_Quiz\\Program.cs",
+              "ToolTip": "D:\\Unity\\BaiTap\\C-Sharp-Practice\\Baitap8\\L123_Advanced-Quiz\\Introduction_Final_Quiz\\Program.cs",
+              "RelativeToolTip": "Introduction_Final_Quiz\\Program.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAAAiwIcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T05:58:21.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

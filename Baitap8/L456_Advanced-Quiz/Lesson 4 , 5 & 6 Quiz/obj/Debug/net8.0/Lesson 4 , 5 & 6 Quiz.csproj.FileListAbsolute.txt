@@ -1,0 +1,15 @@
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.exe
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.deps.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.runtimeconfig.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\bin\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfoInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.AssemblyInfo.cs
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.csproj.CoreCompileInputs.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.sourcelink.json
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\refint\Lesson 4 , 5 & 6 Quiz.dll
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.pdb
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\Lesson 4 , 5 & 6 Quiz.genruntimeconfig.cache
+D:\Unity\BaiTap\C-Sharp-Practice\Baitap8\L456_Advanced-Quiz\Lesson 4 , 5 & 6 Quiz\obj\Debug\net8.0\ref\Lesson 4 , 5 & 6 Quiz.dll
